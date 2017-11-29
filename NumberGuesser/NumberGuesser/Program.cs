@@ -9,14 +9,14 @@ namespace NumberGuesser
         // Entry Point Method
         static void Main(string[] args)
         {
-           
+
             GetAppInfo();
             GreetUser();
 
             while (true)
             {
                 Random random = new Random();
-                int correctNumber = random.Next(1, 10);
+                int correctNumber = random.Next(1, 11);
 
 
                 int guess = 0;
