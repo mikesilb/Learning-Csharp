@@ -1,0 +1,22 @@
+/Users/michaelsilberstein/Projects/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp2.0/ClassesAndObjects.deps.json
+/Users/michaelsilberstein/Projects/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp2.0/ClassesAndObjects.runtimeconfig.json
+/Users/michaelsilberstein/Projects/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp2.0/ClassesAndObjects.runtimeconfig.dev.json
+/Users/michaelsilberstein/Projects/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp2.0/ClassesAndObjects.dll
+/Users/michaelsilberstein/Projects/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp2.0/ClassesAndObjects.pdb
+/Users/michaelsilberstein/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.AssemblyInfo.cs
+/Users/michaelsilberstein/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.dll
+/Users/michaelsilberstein/Projects/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp2.0/ClassesAndObjects.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp2.0/ClassesAndObjects.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp2.0/ClassesAndObjects.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp2.0/ClassesAndObjects.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/bin/Debug/netcoreapp2.0/ClassesAndObjects.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.pdb

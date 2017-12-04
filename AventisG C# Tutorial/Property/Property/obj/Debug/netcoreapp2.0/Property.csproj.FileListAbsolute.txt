@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Property/Property/bin/Debug/netcoreapp2.0/Property.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Property/Property/bin/Debug/netcoreapp2.0/Property.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Property/Property/bin/Debug/netcoreapp2.0/Property.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Property/Property/bin/Debug/netcoreapp2.0/Property.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Property/Property/bin/Debug/netcoreapp2.0/Property.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Property/Property/obj/Debug/netcoreapp2.0/Property.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Property/Property/obj/Debug/netcoreapp2.0/Property.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Property/Property/obj/Debug/netcoreapp2.0/Property.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Property/Property/obj/Debug/netcoreapp2.0/Property.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Property/Property/obj/Debug/netcoreapp2.0/Property.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Property/Property/obj/Debug/netcoreapp2.0/Property.pdb

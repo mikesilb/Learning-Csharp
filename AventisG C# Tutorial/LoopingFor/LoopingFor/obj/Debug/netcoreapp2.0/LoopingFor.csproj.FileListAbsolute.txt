@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingFor/LoopingFor/bin/Debug/netcoreapp2.0/LoopingFor.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingFor/LoopingFor/bin/Debug/netcoreapp2.0/LoopingFor.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingFor/LoopingFor/bin/Debug/netcoreapp2.0/LoopingFor.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingFor/LoopingFor/bin/Debug/netcoreapp2.0/LoopingFor.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingFor/LoopingFor/bin/Debug/netcoreapp2.0/LoopingFor.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingFor/LoopingFor/obj/Debug/netcoreapp2.0/LoopingFor.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingFor/LoopingFor/obj/Debug/netcoreapp2.0/LoopingFor.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingFor/LoopingFor/obj/Debug/netcoreapp2.0/LoopingFor.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingFor/LoopingFor/obj/Debug/netcoreapp2.0/LoopingFor.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingFor/LoopingFor/obj/Debug/netcoreapp2.0/LoopingFor.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingFor/LoopingFor/obj/Debug/netcoreapp2.0/LoopingFor.pdb
