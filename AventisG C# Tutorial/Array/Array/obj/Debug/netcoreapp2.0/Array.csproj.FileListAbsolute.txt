@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Array/Array/bin/Debug/netcoreapp2.0/Array.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Array/Array/bin/Debug/netcoreapp2.0/Array.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Array/Array/bin/Debug/netcoreapp2.0/Array.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Array/Array/bin/Debug/netcoreapp2.0/Array.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Array/Array/bin/Debug/netcoreapp2.0/Array.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Array/Array/obj/Debug/netcoreapp2.0/Array.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Array/Array/obj/Debug/netcoreapp2.0/Array.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Array/Array/obj/Debug/netcoreapp2.0/Array.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Array/Array/obj/Debug/netcoreapp2.0/Array.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Array/Array/obj/Debug/netcoreapp2.0/Array.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Array/Array/obj/Debug/netcoreapp2.0/Array.pdb
