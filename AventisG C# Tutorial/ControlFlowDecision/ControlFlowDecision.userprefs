@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{162316FD-1515-41D2-AB54-18A253122137}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ControlFlowDecision/Program.cs">
+    <Files>
+      <File FileName="ControlFlowDecision/Program.cs" Line="26" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ControlFlowDecision PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

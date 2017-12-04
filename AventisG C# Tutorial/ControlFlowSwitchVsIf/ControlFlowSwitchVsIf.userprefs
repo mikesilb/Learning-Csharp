@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{835D2D43-014D-4844-A72F-F4F3A3953417}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ControlFlowSwitchVsIf/Program.cs">
+    <Files>
+      <File FileName="ControlFlowSwitchVsIf/Program.cs" Line="27" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ControlFlowSwitchVsIf PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

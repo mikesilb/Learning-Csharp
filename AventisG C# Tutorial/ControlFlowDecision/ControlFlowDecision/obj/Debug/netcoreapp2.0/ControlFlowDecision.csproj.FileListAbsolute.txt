@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowDecision/ControlFlowDecision/bin/Debug/netcoreapp2.0/ControlFlowDecision.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowDecision/ControlFlowDecision/bin/Debug/netcoreapp2.0/ControlFlowDecision.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowDecision/ControlFlowDecision/bin/Debug/netcoreapp2.0/ControlFlowDecision.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowDecision/ControlFlowDecision/bin/Debug/netcoreapp2.0/ControlFlowDecision.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowDecision/ControlFlowDecision/bin/Debug/netcoreapp2.0/ControlFlowDecision.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowDecision/ControlFlowDecision/obj/Debug/netcoreapp2.0/ControlFlowDecision.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowDecision/ControlFlowDecision/obj/Debug/netcoreapp2.0/ControlFlowDecision.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowDecision/ControlFlowDecision/obj/Debug/netcoreapp2.0/ControlFlowDecision.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowDecision/ControlFlowDecision/obj/Debug/netcoreapp2.0/ControlFlowDecision.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowDecision/ControlFlowDecision/obj/Debug/netcoreapp2.0/ControlFlowDecision.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowDecision/ControlFlowDecision/obj/Debug/netcoreapp2.0/ControlFlowDecision.pdb

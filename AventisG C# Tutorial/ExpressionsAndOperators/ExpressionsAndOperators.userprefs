@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{48C2A746-8843-4E47-A038-E6DB84E059BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExpressionsAndOperators/Program.cs">
+    <Files>
+      <File FileName="ExpressionsAndOperators/Program.cs" Line="11" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExpressionsAndOperators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

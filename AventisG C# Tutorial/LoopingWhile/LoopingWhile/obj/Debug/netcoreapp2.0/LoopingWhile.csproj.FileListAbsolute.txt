@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingWhile/LoopingWhile/obj/Debug/netcoreapp2.0/LoopingWhile.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingWhile/LoopingWhile/obj/Debug/netcoreapp2.0/LoopingWhile.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingWhile/LoopingWhile/obj/Debug/netcoreapp2.0/LoopingWhile.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingWhile/LoopingWhile/obj/Debug/netcoreapp2.0/LoopingWhile.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingWhile/LoopingWhile/bin/Debug/netcoreapp2.0/LoopingWhile.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingWhile/LoopingWhile/bin/Debug/netcoreapp2.0/LoopingWhile.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingWhile/LoopingWhile/bin/Debug/netcoreapp2.0/LoopingWhile.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingWhile/LoopingWhile/bin/Debug/netcoreapp2.0/LoopingWhile.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingWhile/LoopingWhile/bin/Debug/netcoreapp2.0/LoopingWhile.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingWhile/LoopingWhile/obj/Debug/netcoreapp2.0/LoopingWhile.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/LoopingWhile/LoopingWhile/obj/Debug/netcoreapp2.0/LoopingWhile.pdb

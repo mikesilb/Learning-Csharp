@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B164AA3A-871F-4DF4-860B-66848C0BB5B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ControlFlowSwitch/Program.cs">
+    <Files>
+      <File FileName="ControlFlowSwitch/Program.cs" Line="15" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ControlFlowSwitch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
