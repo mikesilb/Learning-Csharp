@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowSwitch/ControlFlowSwitch/obj/Debug/netcoreapp2.0/ControlFlowSwitch.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowSwitch/ControlFlowSwitch/obj/Debug/netcoreapp2.0/ControlFlowSwitch.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowSwitch/ControlFlowSwitch/obj/Debug/netcoreapp2.0/ControlFlowSwitch.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowSwitch/ControlFlowSwitch/obj/Debug/netcoreapp2.0/ControlFlowSwitch.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowSwitch/ControlFlowSwitch/bin/Debug/netcoreapp2.0/ControlFlowSwitch.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowSwitch/ControlFlowSwitch/bin/Debug/netcoreapp2.0/ControlFlowSwitch.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowSwitch/ControlFlowSwitch/bin/Debug/netcoreapp2.0/ControlFlowSwitch.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowSwitch/ControlFlowSwitch/bin/Debug/netcoreapp2.0/ControlFlowSwitch.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowSwitch/ControlFlowSwitch/bin/Debug/netcoreapp2.0/ControlFlowSwitch.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowSwitch/ControlFlowSwitch/obj/Debug/netcoreapp2.0/ControlFlowSwitch.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ControlFlowSwitch/ControlFlowSwitch/obj/Debug/netcoreapp2.0/ControlFlowSwitch.pdb

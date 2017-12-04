@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A18768BE-601A-4D31-9683-187D28C6DAF9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoopingWhile/Program.cs">
+    <Files>
+      <File FileName="LoopingWhile/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LoopingWhile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
