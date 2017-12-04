@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Constructor/Constructor/bin/Debug/netcoreapp2.0/Constructor.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Constructor/Constructor/bin/Debug/netcoreapp2.0/Constructor.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Constructor/Constructor/bin/Debug/netcoreapp2.0/Constructor.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Constructor/Constructor/bin/Debug/netcoreapp2.0/Constructor.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Constructor/Constructor/bin/Debug/netcoreapp2.0/Constructor.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Constructor/Constructor/obj/Debug/netcoreapp2.0/Constructor.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Constructor/Constructor/obj/Debug/netcoreapp2.0/Constructor.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Constructor/Constructor/obj/Debug/netcoreapp2.0/Constructor.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Constructor/Constructor/obj/Debug/netcoreapp2.0/Constructor.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Constructor/Constructor/obj/Debug/netcoreapp2.0/Constructor.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Constructor/Constructor/obj/Debug/netcoreapp2.0/Constructor.pdb
