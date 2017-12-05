@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Params/Params/bin/Debug/netcoreapp2.0/Params.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Params/Params/bin/Debug/netcoreapp2.0/Params.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Params/Params/bin/Debug/netcoreapp2.0/Params.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Params/Params/bin/Debug/netcoreapp2.0/Params.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Params/Params/bin/Debug/netcoreapp2.0/Params.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Params/Params/obj/Debug/netcoreapp2.0/Params.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Params/Params/obj/Debug/netcoreapp2.0/Params.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Params/Params/obj/Debug/netcoreapp2.0/Params.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Params/Params/obj/Debug/netcoreapp2.0/Params.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Params/Params/obj/Debug/netcoreapp2.0/Params.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Params/Params/obj/Debug/netcoreapp2.0/Params.pdb
