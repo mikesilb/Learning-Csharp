@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Enum/Enum/obj/Debug/netcoreapp2.0/Enum.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Enum/Enum/obj/Debug/netcoreapp2.0/Enum.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Enum/Enum/obj/Debug/netcoreapp2.0/Enum.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Enum/Enum/obj/Debug/netcoreapp2.0/Enum.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Enum/Enum/bin/Debug/netcoreapp2.0/Enum.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Enum/Enum/bin/Debug/netcoreapp2.0/Enum.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Enum/Enum/bin/Debug/netcoreapp2.0/Enum.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Enum/Enum/bin/Debug/netcoreapp2.0/Enum.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Enum/Enum/bin/Debug/netcoreapp2.0/Enum.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Enum/Enum/obj/Debug/netcoreapp2.0/Enum.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Enum/Enum/obj/Debug/netcoreapp2.0/Enum.pdb

@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/StaticNonStatic/StaticNonStatic/obj/Debug/netcoreapp2.0/StaticNonStatic.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/StaticNonStatic/StaticNonStatic/obj/Debug/netcoreapp2.0/StaticNonStatic.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/StaticNonStatic/StaticNonStatic/obj/Debug/netcoreapp2.0/StaticNonStatic.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/StaticNonStatic/StaticNonStatic/obj/Debug/netcoreapp2.0/StaticNonStatic.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/StaticNonStatic/StaticNonStatic/bin/Debug/netcoreapp2.0/StaticNonStatic.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/StaticNonStatic/StaticNonStatic/bin/Debug/netcoreapp2.0/StaticNonStatic.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/StaticNonStatic/StaticNonStatic/bin/Debug/netcoreapp2.0/StaticNonStatic.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/StaticNonStatic/StaticNonStatic/bin/Debug/netcoreapp2.0/StaticNonStatic.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/StaticNonStatic/StaticNonStatic/bin/Debug/netcoreapp2.0/StaticNonStatic.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/StaticNonStatic/StaticNonStatic/obj/Debug/netcoreapp2.0/StaticNonStatic.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/StaticNonStatic/StaticNonStatic/obj/Debug/netcoreapp2.0/StaticNonStatic.pdb
