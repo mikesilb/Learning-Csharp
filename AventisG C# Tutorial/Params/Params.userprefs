@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{0357002C-A7F6-412D-B237-04D129D9E0EF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Array/Program.cs">
+﻿<Properties StartupConfiguration="{427946A3-A0D7-4B40-B17D-FE159A9C4D2C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Params/Program.cs">
     <Files>
-      <File FileName="Array/Program.cs" Line="21" Column="13" />
+      <File FileName="Params/Program.cs" Line="12" Column="54" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Array" expanded="True">
-            <Node name="Array" expanded="True">
+          <Node name="Params" expanded="True">
+            <Node name="Params" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -20,6 +20,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Array PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Params PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

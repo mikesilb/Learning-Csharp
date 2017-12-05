@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace array1
 {
@@ -6,14 +7,23 @@ namespace array1
     {
         static void Main(string[] args)
         {
-            int[] array = new int[5];
+            int[] array = new int[5] {1, 10, 100, 1000, 10000};
             int[,] array1 = new int[5, 2];
 
-            array[0] = 1;
-            array[1] = 10;
-            array[2] = 100;
-            array[3] = 1000;
-            array[4] = 10000;
+            List<int> numbers = new List<int>() { 1, 10, 100, 1000, 10000 };
+            numbers.Add(1);
+            numbers.Add(50);
+            numbers.RemoveAt(2);
+            foreach (var number in numbers)
+            {
+                Console.WriteLine(number);
+            }
+
+            //array[0] = 1;
+            //array[1] = 10;
+            //array[2] = 100;
+            //array[3] = 1000;
+            //array[4] = 10000;
 
             for (int index = 0; index < array.Length; index++)
             {
