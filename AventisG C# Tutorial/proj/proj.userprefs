@@ -1,16 +1,12 @@
 ﻿<Properties StartupConfiguration="{7F1D77D5-B2C1-45C2-A8F0-B88364A5706E}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="proj/Program.cs">
     <Files>
-      <File FileName="proj/Program.cs" Line="15" Column="54" />
+      <File FileName="proj/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="proj" expanded="True">
-            <Node name="proj" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="proj" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
