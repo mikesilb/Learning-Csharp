@@ -22,14 +22,37 @@ namespace Files
 
             System.IO.File.WriteAllLines(@"/Users/michaelsilberstein/launch_academy/output_file4.txt", lines);
 
-            using(System.IO.StreamWriter writer =  new System.IO.StreamWriter(@"/Users/michaelsilberstein/launch_academy/output_file5.txt"))
+ //           using(System.IO.StreamWriter writer =  new System.IO.StreamWriter(@"/Users/michaelsilberstein/launch_academy/output_file5.txt"))
+ //          {
+ //               foreach (var line in lines)
+ //               {
+ //                   writer.WriteLine(line);
+ //                   writer.Dispose();
+ //               }
+ //           }
+
+
+            System.IO.StreamWriter writer = null;
+            try
             {
+                writer = new System.IO.StreamWriter(@"/Users/michaelsilberstein/launch_academy/");
                 foreach (var line in lines)
-                {
-                    writer.WriteLine(line);
-                }
+                  {
+                      writer.WriteLine(line);
+                  }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
             }
 
+            finally
+            {
+                if (writer != null)
+                {
+                    writer.Dispose();
+                }
+            }
         }
     }
 }

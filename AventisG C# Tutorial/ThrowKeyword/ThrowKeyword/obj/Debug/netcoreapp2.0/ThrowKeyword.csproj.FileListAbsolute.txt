@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ThrowKeyword/ThrowKeyword/bin/Debug/netcoreapp2.0/ThrowKeyword.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ThrowKeyword/ThrowKeyword/bin/Debug/netcoreapp2.0/ThrowKeyword.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ThrowKeyword/ThrowKeyword/bin/Debug/netcoreapp2.0/ThrowKeyword.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ThrowKeyword/ThrowKeyword/bin/Debug/netcoreapp2.0/ThrowKeyword.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ThrowKeyword/ThrowKeyword/bin/Debug/netcoreapp2.0/ThrowKeyword.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ThrowKeyword/ThrowKeyword/obj/Debug/netcoreapp2.0/ThrowKeyword.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ThrowKeyword/ThrowKeyword/obj/Debug/netcoreapp2.0/ThrowKeyword.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ThrowKeyword/ThrowKeyword/obj/Debug/netcoreapp2.0/ThrowKeyword.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ThrowKeyword/ThrowKeyword/obj/Debug/netcoreapp2.0/ThrowKeyword.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ThrowKeyword/ThrowKeyword/obj/Debug/netcoreapp2.0/ThrowKeyword.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ThrowKeyword/ThrowKeyword/obj/Debug/netcoreapp2.0/ThrowKeyword.pdb
