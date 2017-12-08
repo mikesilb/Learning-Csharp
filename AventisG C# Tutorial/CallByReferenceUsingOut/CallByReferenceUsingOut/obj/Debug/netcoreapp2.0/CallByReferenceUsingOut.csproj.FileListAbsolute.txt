@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReferenceUsingOut/CallByReferenceUsingOut/obj/Debug/netcoreapp2.0/CallByReferenceUsingOut.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReferenceUsingOut/CallByReferenceUsingOut/obj/Debug/netcoreapp2.0/CallByReferenceUsingOut.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReferenceUsingOut/CallByReferenceUsingOut/obj/Debug/netcoreapp2.0/CallByReferenceUsingOut.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReferenceUsingOut/CallByReferenceUsingOut/obj/Debug/netcoreapp2.0/CallByReferenceUsingOut.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReferenceUsingOut/CallByReferenceUsingOut/bin/Debug/netcoreapp2.0/CallByReferenceUsingOut.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReferenceUsingOut/CallByReferenceUsingOut/bin/Debug/netcoreapp2.0/CallByReferenceUsingOut.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReferenceUsingOut/CallByReferenceUsingOut/bin/Debug/netcoreapp2.0/CallByReferenceUsingOut.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReferenceUsingOut/CallByReferenceUsingOut/bin/Debug/netcoreapp2.0/CallByReferenceUsingOut.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReferenceUsingOut/CallByReferenceUsingOut/bin/Debug/netcoreapp2.0/CallByReferenceUsingOut.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReferenceUsingOut/CallByReferenceUsingOut/obj/Debug/netcoreapp2.0/CallByReferenceUsingOut.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReferenceUsingOut/CallByReferenceUsingOut/obj/Debug/netcoreapp2.0/CallByReferenceUsingOut.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallByReference", "CallByReference\CallByReference.csproj", "{B92B3805-5537-4954-8FA6-1F0771A97BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92B3805-5537-4954-8FA6-1F0771A97BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92B3805-5537-4954-8FA6-1F0771A97BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92B3805-5537-4954-8FA6-1F0771A97BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92B3805-5537-4954-8FA6-1F0771A97BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

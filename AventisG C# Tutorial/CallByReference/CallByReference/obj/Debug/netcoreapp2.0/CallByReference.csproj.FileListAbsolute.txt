@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReference/CallByReference/bin/Debug/netcoreapp2.0/CallByReference.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReference/CallByReference/bin/Debug/netcoreapp2.0/CallByReference.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReference/CallByReference/bin/Debug/netcoreapp2.0/CallByReference.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReference/CallByReference/bin/Debug/netcoreapp2.0/CallByReference.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReference/CallByReference/bin/Debug/netcoreapp2.0/CallByReference.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReference/CallByReference/obj/Debug/netcoreapp2.0/CallByReference.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReference/CallByReference/obj/Debug/netcoreapp2.0/CallByReference.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReference/CallByReference/obj/Debug/netcoreapp2.0/CallByReference.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReference/CallByReference/obj/Debug/netcoreapp2.0/CallByReference.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReference/CallByReference/obj/Debug/netcoreapp2.0/CallByReference.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/CallByReference/CallByReference/obj/Debug/netcoreapp2.0/CallByReference.pdb
