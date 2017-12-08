@@ -2,4 +2,4 @@
 
 This repo includes all programs that I will form while learning the C# language.
 
-This starts off with code from the 51 part AvetisG YouTube C# tutorial.
+This starts off with code from the 50 part AvetisG YouTube C# tutorial.

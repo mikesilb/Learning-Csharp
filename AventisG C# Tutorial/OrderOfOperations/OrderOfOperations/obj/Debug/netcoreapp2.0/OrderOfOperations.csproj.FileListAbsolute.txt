@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/OrderOfOperations/OrderOfOperations/bin/Debug/netcoreapp2.0/OrderOfOperations.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/OrderOfOperations/OrderOfOperations/bin/Debug/netcoreapp2.0/OrderOfOperations.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/OrderOfOperations/OrderOfOperations/bin/Debug/netcoreapp2.0/OrderOfOperations.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/OrderOfOperations/OrderOfOperations/bin/Debug/netcoreapp2.0/OrderOfOperations.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/OrderOfOperations/OrderOfOperations/bin/Debug/netcoreapp2.0/OrderOfOperations.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/OrderOfOperations/OrderOfOperations/obj/Debug/netcoreapp2.0/OrderOfOperations.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/OrderOfOperations/OrderOfOperations/obj/Debug/netcoreapp2.0/OrderOfOperations.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/OrderOfOperations/OrderOfOperations/obj/Debug/netcoreapp2.0/OrderOfOperations.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/OrderOfOperations/OrderOfOperations/obj/Debug/netcoreapp2.0/OrderOfOperations.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/OrderOfOperations/OrderOfOperations/obj/Debug/netcoreapp2.0/OrderOfOperations.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/OrderOfOperations/OrderOfOperations/obj/Debug/netcoreapp2.0/OrderOfOperations.pdb

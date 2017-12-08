@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B60C8966-3AD5-4B70-8A93-27F823658358}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodHiding/Program.cs">
+    <Files>
+      <File FileName="MethodHiding/Program.cs" Line="18" Column="40" />
+      <File FileName="MethodHiding/SomeBaseClass.cs" Line="14" Column="10" />
+      <File FileName="MethodHiding/SomeDerivedClass.cs" Line="13" Column="84" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MethodHiding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
