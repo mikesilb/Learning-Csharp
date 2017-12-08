@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/MethodHiding/MethodHiding/bin/Debug/netcoreapp2.0/MethodHiding.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/MethodHiding/MethodHiding/bin/Debug/netcoreapp2.0/MethodHiding.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/MethodHiding/MethodHiding/bin/Debug/netcoreapp2.0/MethodHiding.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/MethodHiding/MethodHiding/bin/Debug/netcoreapp2.0/MethodHiding.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/MethodHiding/MethodHiding/bin/Debug/netcoreapp2.0/MethodHiding.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/MethodHiding/MethodHiding/obj/Debug/netcoreapp2.0/MethodHiding.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/MethodHiding/MethodHiding/obj/Debug/netcoreapp2.0/MethodHiding.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/MethodHiding/MethodHiding/obj/Debug/netcoreapp2.0/MethodHiding.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/MethodHiding/MethodHiding/obj/Debug/netcoreapp2.0/MethodHiding.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/MethodHiding/MethodHiding/obj/Debug/netcoreapp2.0/MethodHiding.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/MethodHiding/MethodHiding/obj/Debug/netcoreapp2.0/MethodHiding.pdb
