@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.0/AbstractClass.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.0/AbstractClass.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/AbstractClass/AbstractClass/bin/Debug/netcoreapp2.0/AbstractClass.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/AbstractClass/AbstractClass/bin/Debug/netcoreapp2.0/AbstractClass.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/AbstractClass/AbstractClass/bin/Debug/netcoreapp2.0/AbstractClass.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/AbstractClass/AbstractClass/bin/Debug/netcoreapp2.0/AbstractClass.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/AbstractClass/AbstractClass/bin/Debug/netcoreapp2.0/AbstractClass.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.0/AbstractClass.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/AbstractClass/AbstractClass/obj/Debug/netcoreapp2.0/AbstractClass.pdb

@@ -2273,7 +2273,8 @@
     ]
   },
   "packageFolders": {
-    "/Users/michaelsilberstein/.nuget/packages/": {}
+    "/Users/michaelsilberstein/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -2284,6 +2285,9 @@
       "packagesPath": "/Users/michaelsilberstein/.nuget/packages/",
       "outputPath": "/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/obj",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/michaelsilberstein/.config/NuGet/NuGet.Config"
       ],

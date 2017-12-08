@@ -13,11 +13,26 @@ namespace AbstractClass
             _lastname = lastname;
         }
 
-        public abstract void Greet();
+        public virtual void Greet()
+        {
+           Console.WriteLine("Hello from the Person Base Class"); 
+        }
 
         public string GetFullName()
         {
             return $"{_firstname} {_lastname}";
         }
     }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Person mike = new Mike("Michael", "Silberstein");
+            Console.WriteLine(mike.GetFullName());
+            mike.Greet();
+
+        }   
+    }
+   
 }
