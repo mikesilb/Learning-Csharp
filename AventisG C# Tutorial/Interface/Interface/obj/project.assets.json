@@ -2279,11 +2279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/ClassesAndObjects.csproj",
-      "projectName": "ClassesAndObjects",
-      "projectPath": "/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/ClassesAndObjects.csproj",
+      "projectUniqueName": "/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Interface/Interface/Interface.csproj",
+      "projectName": "Interface",
+      "projectPath": "/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Interface/Interface/Interface.csproj",
       "packagesPath": "/Users/michaelsilberstein/.nuget/packages/",
-      "outputPath": "/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ClassesAndObjects/ClassesAndObjects/obj",
+      "outputPath": "/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/Interface/Interface/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
