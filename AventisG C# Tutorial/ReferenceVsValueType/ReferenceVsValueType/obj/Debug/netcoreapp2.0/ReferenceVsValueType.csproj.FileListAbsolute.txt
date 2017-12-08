@@ -1,0 +1,11 @@
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ReferenceVsValueType/ReferenceVsValueType/bin/Debug/netcoreapp2.0/ReferenceVsValueType.deps.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ReferenceVsValueType/ReferenceVsValueType/bin/Debug/netcoreapp2.0/ReferenceVsValueType.runtimeconfig.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ReferenceVsValueType/ReferenceVsValueType/bin/Debug/netcoreapp2.0/ReferenceVsValueType.runtimeconfig.dev.json
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ReferenceVsValueType/ReferenceVsValueType/bin/Debug/netcoreapp2.0/ReferenceVsValueType.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ReferenceVsValueType/ReferenceVsValueType/bin/Debug/netcoreapp2.0/ReferenceVsValueType.pdb
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ReferenceVsValueType/ReferenceVsValueType/obj/Debug/netcoreapp2.0/ReferenceVsValueType.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ReferenceVsValueType/ReferenceVsValueType/obj/Debug/netcoreapp2.0/ReferenceVsValueType.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ReferenceVsValueType/ReferenceVsValueType/obj/Debug/netcoreapp2.0/ReferenceVsValueType.AssemblyInfoInputs.cache
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ReferenceVsValueType/ReferenceVsValueType/obj/Debug/netcoreapp2.0/ReferenceVsValueType.AssemblyInfo.cs
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ReferenceVsValueType/ReferenceVsValueType/obj/Debug/netcoreapp2.0/ReferenceVsValueType.dll
+/Users/michaelsilberstein/Learning_C#/AventisG C# Tutorial/ReferenceVsValueType/ReferenceVsValueType/obj/Debug/netcoreapp2.0/ReferenceVsValueType.pdb
