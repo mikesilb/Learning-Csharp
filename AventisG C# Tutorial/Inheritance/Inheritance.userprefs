@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{5DBE8D9F-3AF6-4987-85D4-B85BEA9049A6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance/Car.cs">
     <Files>
-      <File FileName="Inheritance/Program.cs" Line="18" Column="13" />
-      <File FileName="Inheritance/Car.cs" Line="36" Column="9" />
+      <File FileName="Inheritance/Program.cs" Line="13" Column="38" />
+      <File FileName="Inheritance/Car.cs" Line="7" Column="37" />
       <File FileName="Inheritance/Porsche911.cs" Line="10" Column="2" />
       <File FileName="Inheritance/HondaAccord.cs" Line="6" Column="27" />
       <File FileName="Inheritance/LexusIS250.cs" Line="6" Column="26" />

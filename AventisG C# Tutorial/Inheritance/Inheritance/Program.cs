@@ -10,6 +10,7 @@ namespace Inheritance
             Car hondaAccord = new HondaAccord(8);
             Car lexusIS250 = new LexusIS250(0);
 
+            porsche911.StartEngine();
             porsche911.Drive();
             porsche911.Honk();
 
