@@ -14,13 +14,17 @@ namespace Inheritance
             porsche911.Drive();
             porsche911.Honk();
 
+            hondaAccord.StartEngine();
             hondaAccord.Drive();
             hondaAccord.Honk();
 
+            lexusIS250.StartEngine();
             lexusIS250.Drive();
             lexusIS250.Honk();
             lexusIS250.Refuel(10);
+            lexusIS250.StartEngine();
             lexusIS250.Drive();
+            lexusIS250.Honk();
 
         }
     }
