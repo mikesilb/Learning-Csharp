@@ -1,0 +1,6 @@
+/Users/michaelsilberstein/Learning_C#/FizzBuzzTDD/FizzBuzz.Library/bin/Debug/FizzBuzz.Library.dll
+/Users/michaelsilberstein/Learning_C#/FizzBuzzTDD/FizzBuzz.Library/bin/Debug/FizzBuzz.Library.pdb
+/Users/michaelsilberstein/Learning_C#/FizzBuzzTDD/FizzBuzz.Library/obj/Debug/FizzBuzz.Library.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/Learning_C#/FizzBuzzTDD/FizzBuzz.Library/obj/Debug/FizzBuzz.Library.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/Learning_C#/FizzBuzzTDD/FizzBuzz.Library/obj/Debug/FizzBuzz.Library.dll
+/Users/michaelsilberstein/Learning_C#/FizzBuzzTDD/FizzBuzz.Library/obj/Debug/FizzBuzz.Library.pdb
